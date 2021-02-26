@@ -1,0 +1,184 @@
+.Login{
+    
+    font-size: 1.30rem;
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+    font-weight: 500;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+    color: #fff;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin-left: 10%;
+    text-align: center;
+    
+}
+.titu{
+    font-size: 27px;
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+    font-weight: 500;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+    color: #fff;
+    overflow: hidden;
+    white-space: nowrap;
+    font-weight: bold;
+    text-overflow: ellipsis;
+    margin: 8px;
+}
+.Regis{
+    font-size: 1.30rem;
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+    font-weight: 500;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+    color: #fff;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+.imagen{
+    background-image: url("/img/lean.jpg");
+    width: 100%;
+    height: 600px;
+}
+
+.divt{
+    background-color: rgba(0, 0, 0, .4);
+    height: 21em;
+    width: 500px;
+    position: absolute;
+    top: 106px;
+    color: #fff;
+    text-align: center;
+    padding-top: 1em;
+    margin-left: 345px;
+    border-radius: 35px 35px 35px 35px;
+}
+.texdiv{
+    font-size: 220%;
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+}
+.texdiv1{
+    font-size: 154%;
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+}
+
+.titucard{
+    font-size: 1.36rem;
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+    font-weight: 500;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+}
+.texcard{
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+    font-weight: 500;
+    line-height: 1.6;
+}
+
+.t1{
+    float: left;
+    margin-right: 4.50px;
+    margin-left: 10px;
+    
+   
+}
+.t11{
+    color: #fff;
+    background-color: #3f51b5;
+}
+.t2{
+    float: right;
+    margin-right: 10px;
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+    
+
+}
+.t3{
+    float: unset;
+    margin-left: 60px;
+}
+
+.titucard1{
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+    
+}
+.texcard1{
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+}
+.titucard2{
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+}
+.texcard2{
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+}
+.titucard3{
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+}
+.texcard3{
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+}
+
+.formh1{
+    text-align: center;
+}
+.formdiv{
+    background-color: #fafafa;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    width: 512px;
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px 10px;   
+    border: PowderBlue 5px double;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.app{
+    height: 75px;
+}
+.btnEn{
+    margin-top: -406px;
+    margin-left: 200px;
+}
+.fila1{
+    margin-left: 40px;
+    text-align: left;
+}
+
+.fila2{
+    text-align: center;
+    margin-top: 20px;
+}
+.divfila2{   
+    margin-top: -263px;
+    text-align: right;
+}
+
+.divfila1{   
+    padding: 10px;
+  margin: 10px;
+}
